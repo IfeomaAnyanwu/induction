@@ -178,6 +178,21 @@ const backgroundImages = [
     image:
       " linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/nuc-visit.jpg')",
   },
+   {
+    text: "MDCN REGISTRAR/CEO WITH STAKEHOLDERS",
+    image:
+      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar with stakeholders2.jpeg')",
+  },
+  {
+    text: "MDCN REGISTRAR/CEO WITH STAKEHOLDERS",
+    image:
+      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar with stakeholders3.jpeg')",
+  },
+  {
+    text: "MDCN REGISTRAR/CEO WITH STAKEHOLDERS",
+    image:
+      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar with stakeholders4.jpeg')",
+  },
 ];
 
 let img = 0;
