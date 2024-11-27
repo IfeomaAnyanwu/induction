@@ -124,42 +124,42 @@ const backgroundImages = [
   },
 
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA2.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA3.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA4.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA5.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA6B.jpg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA7.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 Workshop LOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA8.jpeg')",
   },
   {
-    text: "AMCOA LOC",
+    text: "AMCOA AMCOA 2025 WorkshopLOC",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA9.jpeg')",
   },
