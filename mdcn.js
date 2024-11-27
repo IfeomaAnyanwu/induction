@@ -61,12 +61,6 @@ const backgroundImages = [
   },
 
   {
-    text: "The Registrar/CEO, Receiving letter of appointment from the Honourable Minister of Health and Social Welfare",
-    image:
-      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar-appointment.jpg')",
-  },
-
-  {
     text: "Dr. Fatima Kyari, the Registrar/CEO of the Medical and Dental Council of Nigeria",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar01.png')",
