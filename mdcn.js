@@ -55,19 +55,19 @@ const backgroundImages = [
   },
 
   {
-    text: "Chairman of the Medical and Dental Council of Nigeria \n Prof. Afolabi Lesi  ",
+    text: "Prof. Afolabi Lesi, Chairman, Medical and Dental Council of Nigeria",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/chairman.jpeg')",
   },
 
   {
-    text: "Dr. Fatima Kyari, the Registrar/CEO of the Medical and Dental Council of Nigeria",
+    text: "Dr. Fatima Kyari, Registrar/CEO, Medical and Dental Council of Nigeria",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/registrar01.png')",
   },
 
   {
-    text: "maintains  register of persons licencsed to practice medicine, dentistry and alternative-medicine in nigeria",
+    text: "maintains the register of persons licencsed to practice medicine, dentistry and alternative-medicine in nigeria",
     image: "url('/images/registrar02.jpg')",
   },
   {
@@ -88,7 +88,7 @@ const backgroundImages = [
     image: "url('/images/staff2.jpeg')",
   },
   {
-    text: "Determines the standard of knowledge and training of persons to practice as doctors and dentists",
+    text: "Determining the standard of knowledge and training of persons to practice as doctors and dentists",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/council-meeting.jpg')",
   },
@@ -99,7 +99,7 @@ const backgroundImages = [
       " linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/nma-meeting-calabar.jpg')",
   },
   {
-    text: "administers oath of practice on newly graduated doctors and dentists in nigeria",
+    text: "administering oath of practice on newly graduated doctors and dentists in nigeria",
     image: "url('/images/induction.jpg')",
   },
   {
@@ -164,17 +164,17 @@ const backgroundImages = [
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/AMCOA9.jpeg')",
   },
   {
-    text: "MDCN REGISTRAR/CEO WITH PARTNERS",
+    text: "REGISTRAR/CEO, MDCN WITH PARTNERS",
     image:
       "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/partners.jpg')",
   },
 
   {
-    text: "MDCN REGISTRAR/CEO WITH DIGNITARIES FROM THE UNIVERISITY OF ABUJA",
+    text: "REGISTRAR/CEO, MDCN WITH DIGNITARIES FROM THE UNIVERISITY OF ABUJA",
     image: "url('/images/uath-visit.jpg')",
   },
   {
-    text: "MDCN REGISTRAR/CEO WITH DIGNITARIES FROM THE NATIONAL UNIVERISITY COMMISSION",
+    text: "REGISTRAR/CEO, MDCN  WITH DIGNITARIES FROM THE NATIONAL UNIVERISITY COMMISSION",
     image:
       " linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/nuc-visit.jpg')",
   },
