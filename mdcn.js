@@ -57,7 +57,7 @@ const backgroundImages = [
   {
     text: "Prof. Afolabi Lesi, Chairman, Medical and Dental Council of Nigeria",
     image:
-      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/chairman.jpeg')",
+      "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/chairman.jpg')",
   },
 
   {
