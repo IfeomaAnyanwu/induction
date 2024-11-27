@@ -180,7 +180,7 @@ const backgroundImages = [
     image: "url('/images/uath-visit.jpg')",
   },
   {
-    text: "MDCN REGISTRAR/CEO WITH DIGNITARIES FROM THE NATIONAL UNIVERISITIES COMMISSION",
+    text: "MDCN REGISTRAR/CEO WITH DIGNITARIES FROM THE NATIONAL UNIVERISITY COMMISSION",
     image:
       " linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/nuc-visit.jpg')",
   },
